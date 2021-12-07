@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "notes",
-    "slug": "notes",
+    "name": "ds151-notes-assingnment",
+    "slug": "ds151-notes-assingnment",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
